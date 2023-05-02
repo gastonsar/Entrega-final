@@ -1,0 +1,24 @@
+.titulo { 
+    color: blue; 
+    text-align: center; 
+
+} 
+
+.texto { 
+ font-weight: bold;
+} 
+
+body { 
+    background-color: bisque;
+} 
+
+.flexPadre { 
+margin-top: 30px;
+    display: flex; 
+justify-content: space-around;
+} 
+
+.flexPadreDos { 
+    display: flex; 
+   justify-content: space-around;
+} 
