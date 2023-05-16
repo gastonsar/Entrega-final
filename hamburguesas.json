@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "hamburguesa Mexicana",
+        "precio": 1300
+    },
+    {
+        "nombre": "hamburguesa Argentina",
+        "precio": 1500
+    },
+    {
+        "nombre": "hamburguesa Roqueford",
+        "precio": 1800
+    },
+    {
+        "nombre": "Hamburguesa Cuatro Quesos",
+        "precio": 2000
+    },
+    {
+        "nombre": "vacio Desmenuzado",
+        "precio": 2000
+    },
+    {
+        "nombre": "hamburguesa Full Bacon",
+        "precio": 1650
+    }
+]
